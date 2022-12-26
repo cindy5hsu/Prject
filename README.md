@@ -20,6 +20,9 @@
 #### 按下 Clear Fields 時會清除上方所填入的訊息。  
 #### 按下 Exit 則會跳出程式碼。
 
+![image](https://github.com/cindy5hsu/WinForms-CRUD/blob/master/Project_Store/Resources/0-1.jpg?raw=true）
+
+#### 登入成功後，會跳出此主頁可以選擇釋放需要編輯的内容。
 
 ![image](https://github.com/cindy5hsu/WinForms-CRUD/blob/master/Project_Store/Resources/2-5.jpg?raw=true)
 
