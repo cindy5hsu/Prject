@@ -14,3 +14,5 @@
 # 困難之處
 在加入圖片時花了一段時間研究如何把圖片加入到資料庫，
 另外有用到擴充方法，所以有時沒有參考到擴充方法所以也花了一段時間Debugger
+
+![image](https://github.com/cindy5hsu/WinForms-CRUD/blob/master/Project_Store/Resources/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%20(42).png?raw=true)
